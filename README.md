@@ -19,12 +19,12 @@ directly, or compiled into native JavaScript functions.
 Installation
 -------------------------------------
 
-    npm install expr-eval
+    npm install expr-eval-bignumber
 
 Basic Usage
 -------------------------------------
 
-    var Parser = require('expr-eval').Parser;
+    var Parser = require('expr-eval-bignumber').Parser;
 
     var parser = new Parser();
     var expr = parser.parse('2 * x + 1');

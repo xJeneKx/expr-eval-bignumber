@@ -1,5 +1,5 @@
 {
-  "name": "expr-eval",
+  "name": "expr-eval-bignumber",
   "version": "1.2.2",
   "description": "Mathematical expression evaluator",
   "main": "dist/bundle.js",
@@ -7,7 +7,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bignumber.js": "^7.2.1"
+  },
   "devDependencies": {
     "eslint": "^4.19.0",
     "eslint-config-semistandard": "^12.0.1",
