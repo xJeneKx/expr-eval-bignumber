@@ -1,6 +1,6 @@
 {
   "name": "expr-eval-bignumber",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Mathematical expression evaluator",
   "main": "dist/bundle.js",
   "typings": "parser.d.ts",
@@ -36,7 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silentmatt/expr-eval.git"
+    "url": "git+https://github.com/xJeneKx/expr-eval-bignumber.git"
   },
   "keywords": [
     "expression",
@@ -46,10 +46,10 @@
     "function",
     "parser"
   ],
-  "author": "Matthew Crumley",
+  "author": "xJeneK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silentmatt/expr-eval/issues"
+    "url": "https://github.com/xJeneKx/expr-eval-bignumber/issues"
   },
-  "homepage": "https://github.com/silentmatt/expr-eval#readme"
+  "homepage": "https://github.com/xJeneKx/expr-eval-bignumber#readme"
 }
